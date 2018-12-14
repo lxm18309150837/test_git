@@ -1,5 +1,3 @@
 aaa
 ccc
 bbb
-aa
-ccss
